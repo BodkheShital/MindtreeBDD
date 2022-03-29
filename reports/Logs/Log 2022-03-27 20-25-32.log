@@ -1,0 +1,86 @@
+2022-03-27 20:25:36 INFO  BaseClass:19 - Driver set as Chrome
+2022-03-27 20:25:36 INFO  BaseClass:19 - Driver Maximized
+2022-03-27 20:25:49 INFO  TC001_Login:19 - Clicking on login
+2022-03-27 20:25:50 INFO  HomePage:19 - Entering details
+2022-03-27 20:25:51 INFO  HomePage:19 - Entering phone no : 8919428924
+2022-03-27 20:25:52 INFO  HomePage:19 - Clicking continue
+2022-03-27 20:25:52 INFO  HomePage:19 - Selecting Login with password
+2022-03-27 20:25:54 INFO  HomePage:19 - Entering password : ram2821
+2022-03-27 20:25:54 INFO  HomePage:19 - Clicking on signIn
+2022-03-27 20:25:56 INFO  HomePage:19 - Login Success
+2022-03-27 20:25:59 INFO  BaseClass:19 - Driver set as Chrome
+2022-03-27 20:25:59 INFO  BaseClass:19 - Driver Maximized
+2022-03-27 20:26:07 INFO  TC001_Login:19 - Clicking on login
+2022-03-27 20:26:07 INFO  HomePage:19 - Entering details
+2022-03-27 20:26:08 INFO  HomePage:19 - Entering phone no : 8919428924
+2022-03-27 20:26:08 INFO  HomePage:19 - Clicking continue
+2022-03-27 20:26:08 INFO  HomePage:19 - Selecting Login with password
+2022-03-27 20:26:09 INFO  HomePage:19 - Entering password : ram2821
+2022-03-27 20:26:09 INFO  HomePage:19 - Clicking on signIn
+2022-03-27 20:26:11 INFO  HomePage:19 - logged in with invalid credit
+2022-03-27 20:26:13 INFO  BaseClass:19 - Driver set as Chrome
+2022-03-27 20:26:13 INFO  BaseClass:19 - Driver Maximized
+2022-03-27 20:26:19 INFO  TC003_Fan_Page_verification:19 - Verifying fan pages
+2022-03-27 20:26:21 INFO  HomePage:19 - Opeining facebook
+2022-03-27 20:26:30 INFO  HomePage:19 - Opened Facebook
+2022-03-27 20:26:30 INFO  TC003_Fan_Page_verification:19 - Verifying fan pages
+2022-03-27 20:26:32 INFO  HomePage:19 - Opeining twitter
+2022-03-27 20:27:10 INFO  HomePage:19 - Opened Twitter
+2022-03-27 20:27:11 INFO  HomePage:19 - Opeining Linkdin
+2022-03-27 20:27:15 INFO  HomePage:19 - Unable to open Linkdin
+2022-03-27 20:27:17 INFO  BaseClass:19 - Driver set as Chrome
+2022-03-27 20:27:17 INFO  BaseClass:19 - Driver Maximized
+2022-03-27 20:27:25 INFO  TC004_Commertial_verify:19 - Starting commertial search test
+2022-03-27 20:27:25 INFO  TC004_Commertial_verify:19 - clicked on commertail
+2022-03-27 20:27:25 INFO  TC004_Commertial_verify:19 - selcting city as Mumbai
+2022-03-27 20:27:25 INFO  TC004_Commertial_verify:19 - Entering loacation as Taj Lands End, Mumbai, Byramji Jeejeebhoy Road, Mount Mary, Bandra West, Mumbai, Maharashtra, India 
+2022-03-27 20:27:30 INFO  TC004_Commertial_verify:19 -  Number of Results 7
+2022-03-27 20:27:31 INFO  TC004_Commertial_verify:19 - Number of results matched
+2022-03-27 20:27:32 INFO  BaseClass:19 - Driver set as Chrome
+2022-03-27 20:27:32 INFO  BaseClass:19 - Driver Maximized
+2022-03-27 20:27:40 INFO  TC005_FooterPgGostelSearch:19 - Footer Pg hostels
+2022-03-27 20:27:41 INFO  TC005_FooterPgGostelSearch:19 - checking presence of city: Powai
+2022-03-27 20:27:42 INFO  TC005_FooterPgGostelSearch:19 - City present in PGHostel footer
+2022-03-27 20:27:44 INFO  BaseClass:19 - Driver set as Chrome
+2022-03-27 20:27:44 INFO  BaseClass:19 - Driver Maximized
+2022-03-27 20:27:50 INFO  TC006_LoginAndVeriyDetails:19 - Stared Login and verify
+2022-03-27 20:27:50 INFO  TC006_LoginAndVeriyDetails:19 - Clicking on login
+2022-03-27 20:27:50 INFO  HomePage:19 - Entering details
+2022-03-27 20:27:50 INFO  HomePage:19 - Entering phone no : 8919428924
+2022-03-27 20:27:50 INFO  HomePage:19 - Clicking continue
+2022-03-27 20:27:50 INFO  HomePage:19 - Selecting Login with password
+2022-03-27 20:27:52 INFO  HomePage:19 - Entering password : ram2821
+2022-03-27 20:27:52 INFO  HomePage:19 - Clicking on signIn
+2022-03-27 20:27:55 INFO  BaseClass:19 - Driver set as Chrome
+2022-03-27 20:27:56 INFO  BaseClass:19 - Driver Maximized
+2022-03-27 20:28:02 INFO  TC007_BuilderVerify_city:19 - clicked on newBuilder properties started
+2022-03-27 20:28:02 INFO  TC007_BuilderVerify_city:19 - clicking new Builder
+2022-03-27 20:28:02 INFO  TC007_BuilderVerify_city:19 - Clicking on new builder properties
+2022-03-27 20:28:03 INFO  TC007_BuilderVerify_city:19 - Clicking on city :Pune
+2022-03-27 20:28:06 INFO  TC007_BuilderVerify_city:19 - New Projects are displaying according to cites
+2022-03-27 20:28:08 INFO  BaseClass:19 - Driver set as Chrome
+2022-03-27 20:28:08 INFO  BaseClass:19 - Driver Maximized
+2022-03-27 20:28:14 INFO  TC008_AndoidApp_download:19 - Clicked on android app download
+2022-03-27 20:28:14 INFO  TC008_AndoidApp_download:19 - clicking android download
+2022-03-27 20:28:14 INFO  TC008_AndoidApp_download:19 - Clicking on download android app
+2022-03-27 20:28:19 INFO  TC008_AndoidApp_download:19 - It opened correct android app
+2022-03-27 20:28:21 INFO  BaseClass:19 - Driver set as Chrome
+2022-03-27 20:28:21 INFO  BaseClass:19 - Driver Maximized
+2022-03-27 20:28:28 INFO  TC009_SearchRent:19 - Starting commertial search test
+2022-03-27 20:28:28 INFO  TC004_Commertial_verify:19 - Entering loacation as Taj Lands End, Mumbai, Byramji Jeejeebhoy Road, Mount Mary, Bandra West, Mumbai, Maharashtra, India 
+2022-03-27 20:28:34 INFO  TC009_SearchRent:19 -  Number of Results 36
+2022-03-27 20:28:35 INFO  TC009_SearchRent:19 - Number of results matched
+2022-03-27 20:28:36 INFO  BaseClass:19 - Driver set as Chrome
+2022-03-27 20:28:36 INFO  BaseClass:19 - Driver Maximized
+2022-03-27 20:28:41 INFO  TC010_Emi_defination:19 - Selecting emi
+2022-03-27 20:28:41 INFO  TC010_Emi_defination:19 - Opening the url : https://www.nobroker.in/
+2022-03-27 20:28:42 INFO  TC010_Emi_defination:19 - Opeining emi calculator
+2022-03-27 20:28:44 INFO  TC010_Emi_defination:19 - Expected principal Amount: 1,000
+2022-03-27 20:28:44 INFO  TC010_Emi_defination:19 - Actual principal Amount: ?1,000
+2022-03-27 20:28:44 INFO  TC010_Emi_defination:19 - Expected montly Emi: 42
+2022-03-27 20:28:44 INFO  TC010_Emi_defination:19 - Actual montly Emi: 42
+2022-03-27 20:28:44 INFO  TC010_Emi_defination:19 - Expected Total Intrest: 9,080
+2022-03-27 20:28:44 INFO  TC010_Emi_defination:19 - Actual Total Intrest: 9,080
+2022-03-27 20:28:44 INFO  TC010_Emi_defination:19 - Expected Total amount: 10,080
+2022-03-27 20:28:44 INFO  TC010_Emi_defination:19 - Actual Total Amount: 10,080
+2022-03-27 20:28:44 INFO  TC010_Emi_defination:19 - Emi calculations are correct

@@ -1,0 +1,87 @@
+2022-03-29 14:46:21 INFO  BaseClass:19 - Driver set as Chrome
+2022-03-29 14:46:21 INFO  BaseClass:19 - Driver Maximized
+2022-03-29 14:46:23 INFO  TC001_Login:19 - Clicking on login
+2022-03-29 14:46:23 INFO  HomePage:19 - Entering details
+2022-03-29 14:46:24 INFO  HomePage:19 - Entering phone no : 7264905072
+2022-03-29 14:46:24 INFO  HomePage:19 - Clicking continue
+2022-03-29 14:46:24 INFO  HomePage:19 - Selecting Login with password
+2022-03-29 14:46:25 INFO  HomePage:19 - Entering password : shit1572
+2022-03-29 14:46:25 INFO  HomePage:19 - Clicking on signIn
+2022-03-29 14:46:26 INFO  HomePage:19 - Login Success
+2022-03-29 14:46:29 INFO  BaseClass:19 - Driver set as Chrome
+2022-03-29 14:46:29 INFO  BaseClass:19 - Driver Maximized
+2022-03-29 14:46:30 INFO  TC001_Login:19 - Clicking on login
+2022-03-29 14:46:31 INFO  HomePage:19 - Entering details
+2022-03-29 14:46:31 INFO  HomePage:19 - Entering phone no : 7264905072
+2022-03-29 14:46:32 INFO  HomePage:19 - Clicking continue
+2022-03-29 14:46:32 INFO  HomePage:19 - Selecting Login with password
+2022-03-29 14:46:32 INFO  HomePage:19 - Entering password : shit1212
+2022-03-29 14:46:32 INFO  HomePage:19 - Clicking on signIn
+2022-03-29 14:46:36 ERROR HomePage:16 - Expected condition failed: waiting for visibility of element located by By.xpath: //span[@class='nb__3-MNF'] (tried for 3 second(s) with 500 milliseconds interval)
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'MINDDEC447', ip: '172.18.3.17', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 99.0.4844.74, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: C:\Users\MINDTR~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:56508}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:56508/devtoo..., se:cdpVersion: 99.0.4844.74, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 6c6d95827aab435b2ecf074fdae74a9b
+2022-03-29 14:46:36 INFO  HomePage:19 - Does not login with invalid credit
+2022-03-29 14:46:38 INFO  BaseClass:19 - Driver set as Chrome
+2022-03-29 14:46:38 INFO  BaseClass:19 - Driver Maximized
+2022-03-29 14:46:39 INFO  TC003_Fan_Page_verification:19 - Verifying fan pages
+2022-03-29 14:46:40 INFO  HomePage:19 - Opeining facebook
+2022-03-29 14:46:41 INFO  HomePage:19 - Unable to open Facebook
+2022-03-29 14:46:42 INFO  BaseClass:19 - Driver set as Chrome
+2022-03-29 14:46:42 INFO  BaseClass:19 - Driver Maximized
+2022-03-29 14:46:45 INFO  TC004_Commertial_verify:19 - Starting commertial search test
+2022-03-29 14:46:45 INFO  TC004_Commertial_verify:19 - clicked on commertail
+2022-03-29 14:46:45 INFO  TC004_Commertial_verify:19 - selcting city as Mumbai
+2022-03-29 14:46:45 INFO  TC004_Commertial_verify:19 - Entering loacation as Taj Lands End, Mumbai, Byramji Jeejeebhoy Road, Mount Mary, Bandra West, Mumbai, Maharashtra, India 
+2022-03-29 14:46:48 INFO  TC004_Commertial_verify:19 -  Number of Results 7
+2022-03-29 14:46:48 INFO  TC004_Commertial_verify:19 - Number of results matched
+2022-03-29 14:46:50 INFO  BaseClass:19 - Driver set as Chrome
+2022-03-29 14:46:50 INFO  BaseClass:19 - Driver Maximized
+2022-03-29 14:46:51 INFO  TC005_FooterPgGostelSearch:19 - Footer Pg hostels
+2022-03-29 14:46:51 INFO  TC005_FooterPgGostelSearch:19 - checking presence of city: Powai
+2022-03-29 14:46:53 INFO  TC005_FooterPgGostelSearch:19 - City present in PGHostel footer
+2022-03-29 14:46:55 INFO  BaseClass:19 - Driver set as Chrome
+2022-03-29 14:46:55 INFO  BaseClass:19 - Driver Maximized
+2022-03-29 14:46:56 INFO  TC006_LoginAndVeriyDetails:19 - Stared Login and verify
+2022-03-29 14:46:56 INFO  TC006_LoginAndVeriyDetails:19 - Clicking on login
+2022-03-29 14:46:56 INFO  HomePage:19 - Entering details
+2022-03-29 14:46:57 INFO  HomePage:19 - Entering phone no : 7264905072
+2022-03-29 14:46:57 INFO  HomePage:19 - Clicking continue
+2022-03-29 14:46:57 INFO  HomePage:19 - Selecting Login with password
+2022-03-29 14:46:58 INFO  HomePage:19 - Entering password : shit1572
+2022-03-29 14:46:58 INFO  HomePage:19 - Clicking on signIn
+2022-03-29 14:47:02 INFO  BaseClass:19 - Driver set as Chrome
+2022-03-29 14:47:02 INFO  BaseClass:19 - Driver Maximized
+2022-03-29 14:47:04 INFO  TC007_BuilderVerify_city:19 - clicked on newBuilder properties started
+2022-03-29 14:47:04 INFO  TC007_BuilderVerify_city:19 - clicking new Builder
+2022-03-29 14:47:04 INFO  TC007_BuilderVerify_city:19 - Clicking on new builder properties
+2022-03-29 14:47:05 INFO  TC007_BuilderVerify_city:19 - Clicking on city :Pune
+2022-03-29 14:47:06 INFO  TC007_BuilderVerify_city:19 - New Projects are displaying according to cites
+2022-03-29 14:47:07 INFO  BaseClass:19 - Driver set as Chrome
+2022-03-29 14:47:08 INFO  BaseClass:19 - Driver Maximized
+2022-03-29 14:47:09 INFO  TC008_AndoidApp_download:19 - Clicked on android app download
+2022-03-29 14:47:09 INFO  TC008_AndoidApp_download:19 - clicking android download
+2022-03-29 14:47:09 INFO  TC008_AndoidApp_download:19 - Clicking on download android app
+2022-03-29 14:47:12 INFO  TC008_AndoidApp_download:19 - It opened correct android app
+2022-03-29 14:47:13 INFO  BaseClass:19 - Driver set as Chrome
+2022-03-29 14:47:13 INFO  BaseClass:19 - Driver Maximized
+2022-03-29 14:47:15 INFO  TC009_SearchRent:19 - Starting commertial search test
+2022-03-29 14:47:15 INFO  TC004_Commertial_verify:19 - Entering loacation as Taj Lands End, Mumbai, Byramji Jeejeebhoy Road, Mount Mary, Bandra West, Mumbai, Maharashtra, India 
+2022-03-29 14:47:18 INFO  TC009_SearchRent:19 -  Number of Results 36
+2022-03-29 14:47:19 INFO  TC009_SearchRent:19 - Number of results matched
+2022-03-29 14:47:20 INFO  BaseClass:19 - Driver set as Chrome
+2022-03-29 14:47:20 INFO  BaseClass:19 - Driver Maximized
+2022-03-29 14:47:23 INFO  TC010_Emi_defination:19 - Selecting emi
+2022-03-29 14:47:23 INFO  TC010_Emi_defination:19 - Opening the url : https://www.nobroker.in/
+2022-03-29 14:47:23 INFO  TC010_Emi_defination:19 - Opeining emi calculator
+2022-03-29 14:47:25 INFO  TC010_Emi_defination:19 - Expected principal Amount: 1,000
+2022-03-29 14:47:25 INFO  TC010_Emi_defination:19 - Actual principal Amount: ₹1,000
+2022-03-29 14:47:25 INFO  TC010_Emi_defination:19 - Expected montly Emi: 42
+2022-03-29 14:47:25 INFO  TC010_Emi_defination:19 - Actual montly Emi: 42
+2022-03-29 14:47:25 INFO  TC010_Emi_defination:19 - Expected Total Intrest: 9,080
+2022-03-29 14:47:25 INFO  TC010_Emi_defination:19 - Actual Total Intrest: 9,080
+2022-03-29 14:47:25 INFO  TC010_Emi_defination:19 - Expected Total amount: 10,080
+2022-03-29 14:47:25 INFO  TC010_Emi_defination:19 - Actual Total Amount: 10,080
+2022-03-29 14:47:25 INFO  TC010_Emi_defination:19 - Emi calculations are correct
